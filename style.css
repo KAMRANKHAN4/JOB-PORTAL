@@ -223,7 +223,7 @@ animation-timing-function: linear;}
 }
 @media (max-width:768px) {
 .header{
-    width: 100%;
+    width: 520px;
 }
 .img{
     width: 380px;
@@ -232,7 +232,7 @@ animation-timing-function: linear;}
     width: 500px;
 }
 .footer{
-    width: 100%;
+    width: 500px;
 }
 .footer1{
 
@@ -241,7 +241,7 @@ animation-timing-function: linear;}
 
 }
 .footer3{
-
+    
 }
 .footer4{
 
