@@ -221,12 +221,12 @@ animation-timing-function: linear;}
 }
 @media (max-width: 998px) {
 }
-@media only screen and (min-width: 600px) {
+@media (max-width:768px) {
 .header{
     width: 520px;
 }
 .img{
-    width: 380px;
+    width: 268px;
 }
 .card{
     width: 500px;
