@@ -189,7 +189,7 @@ animation-timing-function: linear;}
 }
 @media (max-width: 390px) {
     body{
-        width: 90%;
+        width: 100%;
     }
 .header{
     width: 100%;
