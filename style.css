@@ -225,8 +225,8 @@ animation-timing-function: linear;}
     width: 465px;
 }
 .container{
-   display: inline;
-   
+   display: inline-block;
+
 
 }
 .img{
