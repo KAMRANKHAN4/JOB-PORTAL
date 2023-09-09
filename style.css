@@ -69,7 +69,7 @@ outline: none;
 
 .btn{
     padding: .5rem .5rem;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     background-color: #8dc9e1;
     border-radius: .5rem;
     color: #fff;
@@ -79,11 +79,10 @@ outline: none;
 
 .btn-1{
     padding: .5rem .5rem;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     background-color: #ccc;
     border-radius: .5rem;
     color: #fff;
-    /* margin-right: 1rem; */
     transition: .4s ease-in-out;
 }
 .navbar a:hover{
@@ -223,21 +222,21 @@ animation-timing-function: linear;}
 @media (max-width: 390px) {
 .header{
     width: 100%;
-    display: inline-block;
+    /* display: inline-block; */
 }
 .icons{
-    display: inline-block;
+    /* display: inline-block; */
 }
 .container{
    display: inline-block;
-   background-color:gray;
+   background-color:rgb(238, 235, 235);
    width: 100%;
    height: 800px;
 
 
 }
 .image{
-    display: inline-block;
+    /* display: inline-block; */
 }
 .img{
     
