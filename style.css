@@ -222,13 +222,17 @@ animation-timing-function: linear;}
 }
 @media (max-width: 390px) {
 .header{
-    width: 400px;
+    width: 100%;
+    display: inline-block;
+}
+.icons{
+    display: inline-block;
 }
 .container{
    display: inline-block;
    background-color: red;
    width: 90%;
-   height: 500px;
+   height: 800px;
 
 
 }
