@@ -221,7 +221,7 @@ animation-timing-function: linear;}
 }
 @media (max-width: 998px) {
 }
-@media (min-width:350px)and(max-width:768px) {
+@media (min-width:480px)and(max-width:800px) {
 .header{
     width: 520px;
 }
