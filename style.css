@@ -223,7 +223,7 @@ animation-timing-function: linear;}
 }
 @media (max-width:768px) {
 .header{
-    width: 520px;
+    width: 485px;
 }
 .img{
     width: 268px;
@@ -232,7 +232,7 @@ animation-timing-function: linear;}
     width: 500px;
 }
 .footer{
-    width: 500px;
+    width: 480px;
 }
 .footer1{
 
