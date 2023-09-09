@@ -223,11 +223,17 @@ animation-timing-function: linear;}
 }
 @media (max-width: 789px) {
 .header{
-    width: 485px;
+    width: 465px;
+}
+.container{
+    margin-left: -0px;
+width: 465px;
+
 }
 .img{
-    /* width: 268px; */
+    
     width: 268px;
+    margin-top: 100px;
 }
 .card{
     width: 500px;
@@ -235,19 +241,6 @@ animation-timing-function: linear;}
 .footer{
     width: 480px;
 }
-.footer1{
-
-}
-.footer2{
-
-}
-.footer3{
-    
-}
-.footer4{
-
-}
-
 
 
 
