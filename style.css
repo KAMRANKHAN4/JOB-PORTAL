@@ -222,7 +222,7 @@ animation-timing-function: linear;}
 }
 @media (max-width: 390px) {
 .header{
-    width: 465px;
+    width: 400px;
 }
 .container{
    display: inline-block;
