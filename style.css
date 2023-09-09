@@ -218,9 +218,9 @@ animation-timing-function: linear;}
 .con{
     margin-left: -30px;
 }
-@media (max-width: 998px) {
-}
-@media (max-width: 789px) {
+/* @media (max-width: 998px) {
+} */
+@media (max-width: 390px) {
 .header{
     width: 465px;
 }
