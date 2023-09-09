@@ -179,9 +179,6 @@ font: cursive;
     color: rgb(55, 55, 221);
     cursor: pointer;
    }
-   .fa-brands fa-facebook{
-
-   }
    .black{
     animation: flade-left 2s infinite;
 animation-timing-function: linear;}
